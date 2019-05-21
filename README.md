@@ -14,3 +14,4 @@ ML学习笔记：It’s just my understanding about ML and exercises of ML by zh
 
 Github doesn’t support Latex. You should download those files to get a better reading experience and Typora you may need. 
 
+Or, you can install [Mathjax for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima/related)
